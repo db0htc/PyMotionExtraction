@@ -1,4 +1,4 @@
-This script will accept a few different operands. It is only for use with .mp4 files.
+This script only works on .mp4 files
 
 
 ### usage:
