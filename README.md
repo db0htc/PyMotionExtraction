@@ -4,7 +4,7 @@ This script will accept a few different operands. It is only for use with .mp4 f
 ### usage:
 (* are mandatory)
 
-&nbsp;&nbsp;&nbsp;&nbsp;py ME10.py [path_to_file.mp4]* [-i|--interval n #seconds] [-t|--threshold n #0-255] [--compare-first] [--compare-last] [--output-video]  
+&ensp;py ME10.py [path_to_file.mp4]* [-i|--interval n #seconds] [-t|--threshold n #0-255] [--compare-first] [--compare-last] [--output-video]  
   
 
 #### default flags if only the filename is provided are:
