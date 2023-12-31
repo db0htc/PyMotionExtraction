@@ -12,7 +12,7 @@ py ME10.py [path_to_file.mp4]* [-i|--interval n #seconds] [-t|--threshold n #0-2
 -i 1 -t 50 --compare-last 
 
 
-### default output is a .png file for every frame sample
+ default output is a .png file for every frame sample
 
 
 ## All parameters
