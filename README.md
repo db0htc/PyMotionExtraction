@@ -1,7 +1,9 @@
 This script will accept a few different operands. It is only for use with .mp4 files.
 
 usage:
+
 (* are mandatory)
+
 py ME10.py [path_to_file.mp4]* [-i|--interval n #seconds] [-t|--threshold n #0-255] [--compare-first] [--compare-last] [--output-video]
 
 default flags if only the filename is provided are:
