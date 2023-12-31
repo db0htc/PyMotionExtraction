@@ -30,7 +30,7 @@ This script will accept a few different operands. It is only for use with .mp4 f
 
 
 
-<p>### Best practices:  
+### Best practices:<p>  
   
 Put the phone or offending recording device in some sort of clamp, rest, or mount where it will not move or get easily jostled.  
   
