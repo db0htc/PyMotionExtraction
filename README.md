@@ -4,7 +4,7 @@ This script only works on .mp4 files
 ### usage:
 (* are mandatory)
 
-&ensp;&ensp; py ME10.py [path_to_file.mp4]* [-i|--interval n #seconds] [-t|--threshold n #0-255] [--compare-first] [--compare-last] [--output-video]  
+&ensp;&ensp; py ME10.py [path_to_file.mp4]* [-i&ensp;--interval n #seconds] [-t&ensp;--threshold n #0-255] [--compare-first] [--compare-last] [--output-video]  
   
 
 #### default flags if only the filename is provided are:
@@ -17,9 +17,9 @@ This script only works on .mp4 files
 
 ### All parameters
 
-&ensp;&ensp;-i|--interval n &ensp;&ensp;&ensp;&ensp; This parameter decides the sampling rate of frames from the input video
+&ensp;&ensp;-i&ensp;--interval n &ensp;&ensp;&ensp;&ensp; This parameter decides the sampling rate of frames from the input video
 
-&ensp;&ensp;-t|--threshold n &ensp;&ensp;&ensp;&ensp; Threshold for changes between frames, low is more sensitive, high is less sensitive, range is 0-255
+&ensp;&ensp;-t&ensp;--threshold n &ensp;&ensp;&ensp;&ensp; Threshold for changes between frames, low is more sensitive, high is less sensitive, range is 0-255
 
 &ensp;&ensp;--compare-first &ensp;&ensp;&ensp;&ensp; compare all subsequent frames to the first frame in the video. This argument will take precedence over --compare-last, which will be ignored if this is passed
 
